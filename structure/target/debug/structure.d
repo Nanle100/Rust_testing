@@ -1,0 +1,1 @@
+/home/nanle/Desktop/rust.3/structure/target/debug/structure: /home/nanle/Desktop/rust.3/structure/src/foo/another.rs /home/nanle/Desktop/rust.3/structure/src/foo/mod.rs /home/nanle/Desktop/rust.3/structure/src/main.rs
