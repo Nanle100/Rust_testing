@@ -81,3 +81,10 @@ apply(double);
 fn apply<F>(f: F) where F: Fn(i32) -> i32 {
     println!("{}", f(10)); // 20
 }
+
+
+/*
+
+
+
+*/
