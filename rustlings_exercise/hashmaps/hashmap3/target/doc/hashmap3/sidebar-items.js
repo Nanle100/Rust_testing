@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["build_scores_table","main"],"struct":["TeamScores"]};

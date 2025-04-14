@@ -1,0 +1,4 @@
+var searchIndex = new Map(JSON.parse('[["hashmap3",{"t":"FNNHNNOONHNNN","n":["TeamScores","borrow","borrow_mut","build_scores_table","default","from","goals_conceded","goals_scored","into","main","try_from","try_into","type_id"],"q":[[0,"hashmap3"],[13,"std::collections::hash::map"],[14,"core::result"],[15,"core::any"]],"i":"`h0`00000`000","f":"`{b{{b{c}}}{}}{{{b{d}}}{{b{dc}}}{}}{{{b{f}}}{{j{{b{f}}h}}}}{{}h}{cc{}}``{{}c{}}{{}l}{c{{n{e}}}{}{}}{{}{{n{c}}}{}}{bA`}","D":"d","p":[[1,"reference",null,null,1],[0,"mut"],[1,"str"],[5,"TeamScores",0],[5,"HashMap",13],[1,"unit"],[6,"Result",14,null,1],[5,"TypeId",15]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OzAAAAEAAAsAAwAAAAUABwABAAoAAwA=","P":[[1,"T"],[3,""],[5,"T"],[8,"U"],[9,""],[10,"U,T"],[11,"U"],[12,""]]}]]'));
+if (typeof exports !== 'undefined') exports.searchIndex = searchIndex;
+else if (window.initSearch) window.initSearch(searchIndex);
+//{"start":39,"fragment_lengths":[721]}
